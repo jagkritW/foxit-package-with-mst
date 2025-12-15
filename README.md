@@ -1,0 +1,1 @@
+msiexec /i "FoxitPDFEditor1321_L10N_Setup_Website.msi" TRANSFORMS="FoxitPDFEditor1321_L10N_Setup_Website_FCT.mst" MAKEDEFAULT=1 REMOVENEWVERSION=1 AUTO_UPDATE=2 ADDLOCAL=ALL /qn /norestart /l*v "C:\Foxit_Install_Error_2.log"
